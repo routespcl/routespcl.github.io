@@ -17,6 +17,8 @@ paginate = 20
 
   enableTwemoji = true
 
+  showReadingTime = false
+
   colorScheme = "dark"
   hidecolorschemetoggle = false
 
