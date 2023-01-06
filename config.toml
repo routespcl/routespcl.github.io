@@ -19,7 +19,7 @@ paginate = 20
 
   showReadingTime = false
 
-  colorScheme = "dark"
+  colorScheme = "auto"
   hidecolorschemetoggle = false
 
   customCSS = ["css/custom-font.css"]
