@@ -1,7 +1,5 @@
 ---
 title: "About"
-description: "About Me"
-date: "2022-12-20"
 ---
 
 * 元Minecraft PvPer

@@ -1,4 +1,4 @@
-baseurl = "http://routespcl.github.io"
+baseurl = "http://routespcl.com/"
 title = "Route's website"
 theme = "hugo-coder"
 languagecode = "en"
@@ -52,3 +52,8 @@ url = "posts/"
 name = "Projects"
 weight = 3
 url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Links"
+weight = 4
+url = "links/"
